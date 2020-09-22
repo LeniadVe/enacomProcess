@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NetCoreProyectos\\enacom-process\\Enacom-Api\\Enacom-Api.csproj": {}
+    "D:\\ReposDeGit\\enacomProcess\\enacom-process\\Enacom-Api\\Enacom-Api.csproj": {}
   },
   "projects": {
-    "D:\\NetCoreProyectos\\enacom-process\\Enacom-Api\\Enacom-Api.csproj": {
+    "D:\\ReposDeGit\\enacomProcess\\enacom-process\\Enacom-Api\\Enacom-Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NetCoreProyectos\\enacom-process\\Enacom-Api\\Enacom-Api.csproj",
+        "projectUniqueName": "D:\\ReposDeGit\\enacomProcess\\enacom-process\\Enacom-Api\\Enacom-Api.csproj",
         "projectName": "Enacom-Api",
-        "projectPath": "D:\\NetCoreProyectos\\enacom-process\\Enacom-Api\\Enacom-Api.csproj",
+        "projectPath": "D:\\ReposDeGit\\enacomProcess\\enacom-process\\Enacom-Api\\Enacom-Api.csproj",
         "packagesPath": "C:\\Users\\Abel\\.nuget\\packages\\",
-        "outputPath": "D:\\NetCoreProyectos\\enacom-process\\Enacom-Api\\obj\\",
+        "outputPath": "D:\\ReposDeGit\\enacomProcess\\enacom-process\\Enacom-Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
