@@ -1,5 +1,5 @@
 --Tabla de usuario Enacom
-create table TEnacom(
+create table UsuarioEnacom(
 	idDocumento char(20) Not Null,
 	nombre char(20) Not Null,
 	apellido char(20) Not Null,
