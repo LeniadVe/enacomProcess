@@ -2,8 +2,8 @@
 create table Notificaciones(
 	idNotificacion char(30),
     destinatario int,
-    titulo char(30),
-    descripcion char(50),
-    urlAplicacion char(100),
+    titulo char(500),
+    descripcion char(500),
+    urlAplicacion char(500),
     imagen char(100)
 );
