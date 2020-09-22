@@ -1,9 +1,7 @@
--- Tabla registro de aplicaicones enacom
+-- tabla notificaciones tablet
 create table RegistroAplicacion(
-	idNotificacion char(30),
-    destinatario int,
-    titulo char(30),
-    descripcion char(50),
-    urlAplicacion char(100),
-    imagen char(100)
+	idNotificacion char(20),
+    nombreAplicacion char(30),
+    fecha date,
+    hora time,
 );
